@@ -30,4 +30,4 @@ This repository contains three exercises designed to help learn about async/awai
 - DOM manipulation
 - Event handling
 - Loading states
-- Error handling 
+- Error handling  
